@@ -22,7 +22,7 @@ My findings are well explained in the notebooks. You may jump right into the con
 ## Setup Instructions
 To make changes to my code, you can go ahead and fork my work.
 
-You can get the data used in this project here http://bit.ly/hypothyroid_data
+The links to the projects are: 'https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data' and https://www.kaggle.com/hesh97/titanicdataset-traincsv
 
 
 ## Technologies Used
