@@ -1,5 +1,5 @@
 # KNN-TITANIC-PROJECT-SPAM-MAIL-PREDICTION
-This repository contains two Jupiter Notebooks. The contain the models I have built to predict whether a passenger on the Titanic survived and whether an email is spam or ham.
+This repository contains two Jupiter Notebooks. They contain the models I have built to predict whether a passenger on the Titanic survived and whether an email is spam or ham.
 
 ## Description
 This repository contains a Jupiter notebook that contains Python code that I used to build two machine learning models.
